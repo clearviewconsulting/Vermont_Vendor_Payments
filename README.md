@@ -1,3 +1,4 @@
 # Vermont_Vendor_Payments
 
-https://data.vermont.gov/resource/786x-sbp3.csv
+
+https://data.vermont.gov/Finance/Vermont-Vendor-Payments/786x-sbp3
